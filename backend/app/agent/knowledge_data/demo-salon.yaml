@@ -1,0 +1,17 @@
+# Демо-данные для тенанта "demo-salon" (профиль salon) — для разработки и тестов.
+services:
+  - name: "Женская стрижка"
+    price_uzs: 80000
+    duration_minutes: 60
+  - name: "Мужская стрижка"
+    price_uzs: 50000
+    duration_minutes: 30
+  - name: "Маникюр"
+    price_uzs: 100000
+    duration_minutes: 90
+
+faq:
+  - question: "Часы работы"
+    answer: "Мы работаем ежедневно с 9:00 до 19:00."
+  - question: "Адрес"
+    answer: "Ташкент, ул. Амира Темура, 15."
